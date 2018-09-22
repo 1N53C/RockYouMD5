@@ -1,3 +1,5 @@
+import hashlib as hash
+
 user_input = input("Please enter the Hash to decrypt: ")
 chosen_hash = input("Enter Type of Hash (md5 or sha256): ")
 
