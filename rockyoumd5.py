@@ -1,5 +1,3 @@
-#! /bin/env python
-
 import hashlib as hash
 
 user_input = input("Please enter the MD5 Hash to decrypt: ")
