@@ -1,8 +1,5 @@
-
 user_input = input("Please enter the Hash to decrypt: ")
 chosen_hash = input("Enter Type of Hash (md5 or sha256): ")
-extra_chars = "$§%/()?=!"
-
 
 # in this case, the rockyou.txt is in the same folder as the script
 with open('rockyou.txt', 'r') as file:
