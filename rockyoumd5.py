@@ -9,3 +9,4 @@ with open('rockyou.txt', 'r') as file:
         if word == user_input:
             print("[+] Password found: " + line)
             break
+print("Finished")
